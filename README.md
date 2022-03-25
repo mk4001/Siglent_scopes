@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mk4001
-- 👀 I’m interested in IT, IoT, Digital & Analog Electronics.
-- 🌱 I’m currently learning a lot of things... but I'm too old unfortunately
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+In this project you will find a modified version of Siglent™ PGM to send commads to Oscilloscopes via LAN port.
 
-<!---
-mk4001/mk4001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+you can find two typical examples;
+
+- LAN_Command.py to send single or ripetitive commands to scope
+
+- LAN_Capture.py to get a print screen of the scoe display
+
+Enjoy!
