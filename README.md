@@ -1,4 +1,4 @@
-In this project you will find a modified version of Siglent™ PGM to send commads to Oscilloscopes via LAN port.
+In this project you will find a modified version of Siglent™ Python3.4 PGM to send commads to Oscilloscopes via LAN port.
 
 you can find two typical examples;
 
